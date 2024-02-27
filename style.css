@@ -9,7 +9,11 @@ body {
 }
 .header {
     color: rgb(13, 15, 15);
-    font-style: oblique;
-    font-size: medium;
     
+
+
+}
+
+.slider {
+    background-color: brown;
 }
