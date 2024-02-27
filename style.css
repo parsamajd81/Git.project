@@ -5,4 +5,11 @@ body {
     font-weight: 200;
     margin-top: 5rem;
     padding-top: 2rem;
+    max-height: max-content;
+}
+.header {
+    color: rgb(13, 15, 15);
+    font-style: oblique;
+    font-size: medium;
+    
 }
